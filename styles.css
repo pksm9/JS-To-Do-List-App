@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(54, 28, 53);
+    
+}
+
+.content {
+    background-color: aliceblue;
+    padding: 2%;
+    margin: auto;
+    width: 30%;
+    margin-top: 8%;
+    border-radius: 25px;
+    
+}
+
+.tasks {
+    margin-top: 5%;
+}
